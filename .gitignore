@@ -5,3 +5,5 @@ out/
 !.env.example
 .vercel/
 *.log
+
+.env.local
